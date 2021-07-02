@@ -1,0 +1,2 @@
+com/gradle/teste/TesteApplication.java
+ com.gradle.teste.TesteApplication
